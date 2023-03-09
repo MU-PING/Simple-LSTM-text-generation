@@ -1,1 +1,1 @@
-# Story-generation
+# Simple-LSTM-text-generation
