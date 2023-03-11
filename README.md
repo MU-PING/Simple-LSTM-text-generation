@@ -1,5 +1,5 @@
 # Simple-LSTM-text-generation
-## Pretrain Embedding Layer by Word2Vec
+## Pretrained Embedding Layer by Word2Vec
 * Word2vec is a technique for natural language processing (NLP) published in 2013. The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence.
 * Word2vec can utilize either of two model architectures to produce these distributed representations of words: 
   * continuous bag-of-words (CBOW)
@@ -13,7 +13,7 @@ Image: https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/#.ZAt
 ![image](https://user-images.githubusercontent.com/93152909/224502283-2bbd8ec7-73e6-462b-a97f-3ab3afffe9e6.png)
 
 ### Input and Output Data
-![image](https://user-images.githubusercontent.com/93152909/224502545-82ada0ba-5218-400a-9285-13df57530914.png)
+![image](https://user-images.githubusercontent.com/93152909/224502685-38db9c8f-0a9a-46ee-82e6-2a221c356427.png)
 
 ## Results
 > Results are ungrammatical or same as training data
